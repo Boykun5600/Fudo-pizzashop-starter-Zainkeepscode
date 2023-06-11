@@ -1,7 +1,7 @@
-import {UilFacebook, UilGithup, UilInstagram} from "@iconscout/react-unicons";
+import { UilFacebook, UilGithup, UilInstagram } from "@iconscout/react-unicons";
 import css from '../styles/Footer.module.css';
 import Image from "next/image";
-import Logo from "../styles/Logo.png";
+import Logo from "../assets/Logo.png";
 export default function Footer() {
     return(
         <div className={css.container}>
