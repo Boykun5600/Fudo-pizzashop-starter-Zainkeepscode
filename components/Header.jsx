@@ -8,10 +8,10 @@ export default function Header() {
     return(
         <div className={css.header}>
            {/* logo side */}
-           <div className={css.logo}>
+            <div className={css.logo}>
                 <Image src ={Logo} alt = "" width={50} height={50} />
                 <span>Fudo</span>
-         </div>
+            </div>
          {/* menu side */}
          <ul className={css.manu}>
             <li>Home</li>
