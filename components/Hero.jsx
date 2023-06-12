@@ -8,7 +8,7 @@ export default function Hero() {
 
             <div className={css.cherryDiv}>
                 <span>More than Faster</span>
-                <Image src={Cherry} alt=""/>
+                <Image src={Cherry} alt="" width={40} height={25}/>
             </div>
             {/* right side */}
 

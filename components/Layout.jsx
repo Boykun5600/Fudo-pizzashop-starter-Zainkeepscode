@@ -1,11 +1,12 @@
-import Header from "./Header"
 import Footer from "./Footer"
+import Header from "./Header"
 
-const Layout = ( { Children }) => {
+
+const Layout = ( { children }) => {
     return(
         <>
         <Header/>
-        {Children}
+        {children}
         <Footer/>
         </>
         
