@@ -1,4 +1,4 @@
-/* import { UilFacebook, UilGithup, UilInstagram } from "@iconscout/react-unicons"; */
+import { UilFacebook, UilGithup, UilInstagram } from "@iconscout/react-unicons"; 
 import css from '../styles/Footer.module.css';
 import Image from "next/image";
 import Logo from "../assets/Logo.png";

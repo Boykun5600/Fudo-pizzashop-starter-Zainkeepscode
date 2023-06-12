@@ -11,6 +11,11 @@ export default function Hero() {
                 <Image src={Cherry} alt=""/>
             </div>
             {/* right side */}
+
+
+            <div className={css.rightSide}>
+                1
+            </div>
         </div>
     )
     
